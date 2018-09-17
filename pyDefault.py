@@ -19,7 +19,7 @@ try:
                                  'o:'
                                  'vh',
                                  ['screen', 'image', 'resolution=', 'points=', 'markstart', 
-                                  'plotevery=', 'offset=' 
+                                  'plotevery=', 'offset=', 
                                   'verbose', 'help'])
 
 except getopt.GetoptError as e:
